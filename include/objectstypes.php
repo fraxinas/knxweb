@@ -68,7 +68,8 @@ $_objectTypes = array(
     '20.102' => '20.102 : heating mode',
     '28.001' => '28.001 : variable length string objects',
     '29.xxx' => '29.xxx : signed 64bit value',
-    '232.600' => '232.600 : RGBObject'
+    '232.600' => '232.600 : RGBObject',
+    '251.600' => '251.600 : RGBWObject'
 );
 
 ?>
